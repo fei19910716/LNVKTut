@@ -1,135 +1,135 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Workspace\myGithub\VulkanTutorial\base\app.cpp">
+    <ClCompile Include="C:\Workspace\myGithub\myVKSamples\base\app.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Workspace\myGithub\VulkanTutorial\base\camera.cpp">
+    <ClCompile Include="C:\Workspace\myGithub\myVKSamples\base\camera.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Workspace\myGithub\VulkanTutorial\base\glfw_backend.cpp">
+    <ClCompile Include="C:\Workspace\myGithub\myVKSamples\base\glfw_backend.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Workspace\myGithub\VulkanTutorial\base\utils.cpp">
+    <ClCompile Include="C:\Workspace\myGithub\myVKSamples\base\utils.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Workspace\myGithub\VulkanTutorial\base\window_backend.cpp">
+    <ClCompile Include="C:\Workspace\myGithub\myVKSamples\base\window_backend.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\app.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\app.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\camera.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\camera.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\exception.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\exception.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\glfw_backend.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\glfw_backend.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\keys.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\keys.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\lights_common.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\lights_common.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\log_system.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\log_system.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\math.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\math.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\types.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\types.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\utils.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\utils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vertices.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vertices.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkbuffer.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkbuffer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkcommandbuffer.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkcommandbuffer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkcommandbufferpool.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkcommandbufferpool.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkdescriptorset.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkdescriptorset.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkdevice.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkdevice.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkframebuffer.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkframebuffer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkgraphicspipeline.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkgraphicspipeline.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkimage.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkimage.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkimagesampler.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkimagesampler.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkimageview.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkimageview.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkindexbuffer.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkindexbuffer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkinstance.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkinstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkmemory.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkmemory.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkobject.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkobject.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkphysicaldevice.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkphysicaldevice.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkrenderpass.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkrenderpass.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vksurface.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vksurface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkswapchain.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkswapchain.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vksync.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vksync.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkuniformbuffer.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkuniformbuffer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\vk\vkvertexbuffer.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\vk\vkvertexbuffer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\window_backend.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\window_backend.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myGithub\VulkanTutorial\base\window_callback.h">
+    <ClInclude Include="C:\Workspace\myGithub\myVKSamples\base\window_callback.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Workspace\myGithub\VulkanTutorial\base\CMakeLists.txt" />
+    <CustomBuild Include="C:\Workspace\myGithub\myVKSamples\base\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{6B0E18D8-591A-3A08-8324-400133B4C678}</UniqueIdentifier>
+      <UniqueIdentifier>{6C60D3EA-E385-37AD-A204-442F9B887BC6}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{B954C8B1-00D6-3FCB-B078-0FBE5E7A8D1A}</UniqueIdentifier>
+      <UniqueIdentifier>{1DD22631-8080-3BCE-BF22-C92A803C7685}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

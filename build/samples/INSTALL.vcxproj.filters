@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Workspace\myGithub\VulkanTutorial\build\CMakeFiles\cf1606e585f49d58ef10ab36dfb63b3f\INSTALL_force.rule">
+    <CustomBuild Include="C:\Workspace\myGithub\myVKSamples\build\CMakeFiles\d507b8347d9df42a7fdc11b7c406c667\INSTALL_force.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{B6BFB43C-4A97-309C-9F9E-2F587DC935E8}</UniqueIdentifier>
+      <UniqueIdentifier>{20AED4B7-96F5-3D7B-9988-BB25B117840F}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

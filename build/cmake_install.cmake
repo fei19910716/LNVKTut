@@ -1,4 +1,4 @@
-# Install script for directory: C:/Workspace/myGithub/VulkanTutorial
+# Install script for directory: C:/Workspace/myGithub/myVKSamples
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,9 +34,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Workspace/myGithub/VulkanTutorial/build/external/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/base/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/cmake_install.cmake")
+  include("C:/Workspace/myGithub/myVKSamples/build/external/cmake_install.cmake")
+  include("C:/Workspace/myGithub/myVKSamples/build/base/cmake_install.cmake")
+  include("C:/Workspace/myGithub/myVKSamples/build/samples/cmake_install.cmake")
 
 endif()
 
@@ -48,5 +48,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Workspace/myGithub/VulkanTutorial/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Workspace/myGithub/myVKSamples/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

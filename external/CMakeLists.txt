@@ -8,7 +8,6 @@ set(external_libs
 
     vulkan
     stb
-    assimp
     glm
     tinyobj
 )

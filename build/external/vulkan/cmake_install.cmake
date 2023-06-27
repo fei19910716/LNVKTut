@@ -1,4 +1,4 @@
-# Install script for directory: C:/Workspace/myGithub/VulkanTutorial/external/vulkan
+# Install script for directory: C:/Workspace/myGithub/myVKSamples/external/vulkan
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Workspace/myGithub/VulkanTutorial/external/glfw
+# Install script for directory: C:/Workspace/myGithub/myVKSamples/external/glfw
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

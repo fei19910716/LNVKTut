@@ -1,4 +1,4 @@
-# Install script for directory: C:/Workspace/myGithub/VulkanTutorial/samples/00_base_code
+# Install script for directory: C:/Workspace/myGithub/myVKSamples/samples/00_base_code
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

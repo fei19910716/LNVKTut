@@ -1,4 +1,4 @@
-# Install script for directory: C:/Workspace/myGithub/VulkanTutorial/samples
+# Install script for directory: C:/Workspace/myGithub/myVKSamples/samples
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,20 +34,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/00_base_code/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/15_hello_triangle/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/16_frames_in_flight/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/17_swap_chain_recreation/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/20_staging_buffer/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/19_vertex_buffer/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/21_index_buffer/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/23_descriptor_sets/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/26_texture_mapping/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/27_depth_buffering/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/28_model_loading/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/29_mipmapping/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/30_multisampling/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/samples/31_compute_shader/cmake_install.cmake")
+  include("C:/Workspace/myGithub/myVKSamples/build/samples/00_base_code/cmake_install.cmake")
+  include("C:/Workspace/myGithub/myVKSamples/build/samples/01_hello_triangle/cmake_install.cmake")
 
 endif()
 

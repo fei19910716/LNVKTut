@@ -2,4 +2,4 @@
 C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
 C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageMessage.cmake
 C:/Program Files/CMake/share/cmake-3.24/Modules/FindVulkan.cmake
-C:/Workspace/myGithub/VulkanTutorial/external/vulkan/CMakeLists.txt
+C:/Workspace/myGithub/myVKSamples/external/vulkan/CMakeLists.txt

@@ -93,6 +93,6 @@ C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake
-C:/Workspace/myGithub/VulkanTutorial/CMakeLists.txt
-C:/Workspace/myGithub/VulkanTutorial/cmake/settings.cmake
-C:/Workspace/myGithub/VulkanTutorial/cmake/utils.cmake
+C:/Workspace/myGithub/myVKSamples/CMakeLists.txt
+C:/Workspace/myGithub/myVKSamples/cmake/settings.cmake
+C:/Workspace/myGithub/myVKSamples/cmake/utils.cmake

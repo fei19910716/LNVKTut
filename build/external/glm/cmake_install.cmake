@@ -1,4 +1,4 @@
-# Install script for directory: C:/Workspace/myGithub/VulkanTutorial/external/glm
+# Install script for directory: C:/Workspace/myGithub/myVKSamples/external/glm
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Workspace/myGithub/VulkanTutorial/build/external/glm/glm/cmake_install.cmake")
+  include("C:/Workspace/myGithub/myVKSamples/build/external/glm/glm/cmake_install.cmake")
 
 endif()
 

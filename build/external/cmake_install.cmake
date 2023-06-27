@@ -1,4 +1,4 @@
-# Install script for directory: C:/Workspace/myGithub/VulkanTutorial/external
+# Install script for directory: C:/Workspace/myGithub/myVKSamples/external
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,13 +34,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Workspace/myGithub/VulkanTutorial/build/external/glad/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/external/glfw/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/external/vulkan/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/external/stb/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/external/assimp/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/external/glm/cmake_install.cmake")
-  include("C:/Workspace/myGithub/VulkanTutorial/build/external/tinyobj/cmake_install.cmake")
+  include("C:/Workspace/myGithub/myVKSamples/build/external/glad/cmake_install.cmake")
+  include("C:/Workspace/myGithub/myVKSamples/build/external/glfw/cmake_install.cmake")
+  include("C:/Workspace/myGithub/myVKSamples/build/external/vulkan/cmake_install.cmake")
+  include("C:/Workspace/myGithub/myVKSamples/build/external/stb/cmake_install.cmake")
+  include("C:/Workspace/myGithub/myVKSamples/build/external/glm/cmake_install.cmake")
+  include("C:/Workspace/myGithub/myVKSamples/build/external/tinyobj/cmake_install.cmake")
 
 endif()
 

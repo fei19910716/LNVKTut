@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin/")
 
 
-option(BUILD_ALL_SAMPLES "Build all samples" OFF)
+option(BUILD_ALL_SAMPLES "Build all samples" ON)
