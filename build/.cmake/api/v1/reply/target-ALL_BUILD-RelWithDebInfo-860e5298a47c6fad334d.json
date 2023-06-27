@@ -1,0 +1,90 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "copy_vulkan::@6f1bd3681c3d2de5c485"
+		},
+		{
+			"id" : "glad::@55512df44c152ef9a2ca"
+		},
+		{
+			"id" : "copy_glfw::@691b517da5fa0f694cd4"
+		},
+		{
+			"id" : "copy_assimp::@3253ab71256c6811a023"
+		},
+		{
+			"id" : "base::@4506b02e7a4fef989908"
+		},
+		{
+			"id" : "00_base_code::@e857991b9b6a77b56622"
+		},
+		{
+			"id" : "23_descriptor_sets::@66bd1889203ee697f2d9"
+		},
+		{
+			"id" : "17_swap_chain_recreation::@8550aaf078c945e9fdbf"
+		},
+		{
+			"id" : "16_frames_in_flight::@166b5c58eaaf3aa5cd03"
+		},
+		{
+			"id" : "26_texture_mapping::@8e4332feeab9aa1f4fdb"
+		},
+		{
+			"id" : "27_depth_buffering::@aac984a4cbeddc609430"
+		},
+		{
+			"id" : "20_staging_buffer::@b51f6f4a6569064a7395"
+		},
+		{
+			"id" : "21_index_buffer::@5198b9486a04431814f8"
+		},
+		{
+			"id" : "29_mipmapping::@e8e4376b0d1d08a328d7"
+		},
+		{
+			"id" : "28_model_loading::@a86064166bae7007d541"
+		},
+		{
+			"id" : "15_hello_triangle::@75435d4b494a1b5cde18"
+		},
+		{
+			"id" : "19_vertex_buffer::@060caea46d5023df3b4c"
+		},
+		{
+			"id" : "30_multisampling::@55dd7d293103155fd1f6"
+		},
+		{
+			"id" : "31_compute_shader::@0d900afebaf31e702b36"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
